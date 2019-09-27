@@ -1,5 +1,5 @@
 # Contatos
-Sistema de contatos para testar as tecnologias abaixo:
+Sistema de contatos com as tecnologias abaixo:
 
 - React js
   - Componente de Google Maps
