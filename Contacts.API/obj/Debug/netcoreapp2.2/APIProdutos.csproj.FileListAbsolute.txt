@@ -1,0 +1,14 @@
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.deps.json
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.runtimeconfig.json
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.runtimeconfig.dev.json
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.dll
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.pdb
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.csprojAssemblyReference.cache
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.csproj.CoreCompileInputs.cache
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.RazorAssemblyInfo.cache
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.RazorAssemblyInfo.cs
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.AssemblyInfoInputs.cache
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.AssemblyInfo.cs
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.RazorTargetAssemblyInfo.cache
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.dll
+E:\My Projects\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.pdb

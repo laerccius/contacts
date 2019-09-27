@@ -1,0 +1,14 @@
+E:\My Projects\Contacts\Contacts.API\bin\Debug\netcoreapp2.2\Contacts.API.deps.json
+E:\My Projects\Contacts\Contacts.API\bin\Debug\netcoreapp2.2\Contacts.API.runtimeconfig.json
+E:\My Projects\Contacts\Contacts.API\bin\Debug\netcoreapp2.2\Contacts.API.runtimeconfig.dev.json
+E:\My Projects\Contacts\Contacts.API\bin\Debug\netcoreapp2.2\Contacts.API.dll
+E:\My Projects\Contacts\Contacts.API\bin\Debug\netcoreapp2.2\Contacts.API.pdb
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.csprojAssemblyReference.cache
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.csproj.CoreCompileInputs.cache
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.RazorAssemblyInfo.cache
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.RazorAssemblyInfo.cs
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.AssemblyInfoInputs.cache
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.AssemblyInfo.cs
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.RazorTargetAssemblyInfo.cache
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.dll
+E:\My Projects\Contacts\Contacts.API\obj\Debug\netcoreapp2.2\Contacts.API.pdb
