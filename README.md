@@ -9,14 +9,14 @@ Sistema de contatos com as tecnologias abaixo:
 Para rodar a API:
 
  - 1 - Instale o dotnet core https://dotnet.microsoft.com/download
- - 2 - Após a instalação navegue pela linha de comando até a pasta Contact.API 
+ - 2 - Após a instalação navegue pela linha de comando até a pasta Contacts.API 
  - 3 - Execute dotnet build
  - 4 - dotnet run
  
 Para rodar o front:
  
  - 1 - Instale o npm https://www.npmjs.com/get-npm
- - 2 - Após a instalação navegue pela linha de comando até a pasta Contact.Map
+ - 2 - Após a instalação navegue pela linha de comando até a pasta Contacts.Map
  - 3 - Execute "npm i"
  - 4 - Execute "npm start"
  
