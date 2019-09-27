@@ -1,4 +1,4 @@
-# Contacts
+# Contatos
 Sistema de contatos para testar as tecnologias abaixo:
 
 - React js
