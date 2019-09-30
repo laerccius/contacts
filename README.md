@@ -21,6 +21,7 @@ Para rodar o front:
  - 3 - Execute "npm i"
  - 4 - Execute "npm start"
  
- Alguns itens pendentes:
+ Itens não desenvolvidos:
   - Conexão com um banco de dados (SQL server ou mongo)
+  - Criação da base de dados
   - Cadastro de novos contatos 
