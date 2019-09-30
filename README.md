@@ -3,7 +3,7 @@ Sistema de contatos com as tecnologias abaixo:
 
 - React js
   - Componente de Google Maps
-- Api Asp.net Core - Protegida por token OAuth
+- Api Asp.net Core - Protegida por token no padrão OAuth
 
 
 Para rodar a API:
@@ -11,7 +11,8 @@ Para rodar a API:
  - 1 - Instale o dotnet core https://dotnet.microsoft.com/download
  - 2 - Após a instalação navegue pela linha de comando até a pasta Contacts.API 
  - 3 - Execute dotnet build
- - 4 - dotnet run
+ - 4 - Execute dotnet run
+ - 5 - A API ultiliza swagger para documentação, que pode ser visualizado no endereço "http://localhost:4000/swagger"
  
 Para rodar o front:
  
@@ -20,5 +21,6 @@ Para rodar o front:
  - 3 - Execute "npm i"
  - 4 - Execute "npm start"
  
- Obs.: Por eu não ter muito tempo disponível, acabei por não fazer a parte do banco de dados para o sistema, sendo utilizado uma base em memória.
- 
+ Alguns itens pendentes:
+  - Conexão com um banco de dados (SQL server ou mongo)
+  - Cadastro de novos contatos 
